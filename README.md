@@ -1,2 +1,1 @@
-# tindong-project
-Project that was done for a class while I was studying bootstrap
+TinDog Starting Files
